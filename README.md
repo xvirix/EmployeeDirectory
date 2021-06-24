@@ -18,7 +18,7 @@ axios
 Deployed using GitPages
 
 # Screenshots and Tutorial
-![alt text](https://github.com/xvirix/Employee-Directory/blob/main/Photo/photo1.jpg)
+![alt text](https://github.com/xvirix/Employee-Directory/blob/main/photos/photo1.jpg)
 
 
 
